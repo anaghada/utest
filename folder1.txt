@@ -1,0 +1,909 @@
+anagha_dhileep
+counts.sh
+cron1.txt
+documents
+Downloads
+f1.txt
+f2.txt
+folder
+folder1.txt
+fol.txt
+Pictures
+remov.sh
+rm1.sh
+rm2.sh
+rm.sh
+sdl
+snap
+text.txt
+enter directory name:
+lrwxrwxrwx   1 root root          7 May  6 21:23 /bin -> usr/bin
+lrwxrwxrwx   1 root root          7 May  6 21:23 /lib -> usr/lib
+lrwxrwxrwx   1 root root          9 May  6 21:23 /lib32 -> usr/lib32
+lrwxrwxrwx   1 root root          9 May  6 21:23 /lib64 -> usr/lib64
+lrwxrwxrwx   1 root root         10 May  6 21:23 /libx32 -> usr/libx32
+lrwxrwxrwx   1 root root          8 May  6 21:23 /sbin -> usr/sbin
+-rw-------   1 root root 2147483648 May  6 21:23 /swapfile
+
+/boot:
+total 134348
+-rw-r--r-- 1 root root   248270 May  6 14:58 config-5.8.0-53-generic
+-rw-r--r-- 1 root root   248188 Jun  1 14:53 config-5.8.0-55-generic
+drwx------ 2 root root     4096 Jan  1  1970 efi
+drwxr-xr-x 4 root root     4096 Jun 11 14:18 grub
+lrwxrwxrwx 1 root root       27 Jun  4 10:34 initrd.img -> initrd.img-5.8.0-55-generic
+-rw-r--r-- 1 root root 52914637 May 26 18:56 initrd.img-5.8.0-53-generic
+-rw-r--r-- 1 root root 52924245 Jun  4 10:34 initrd.img-5.8.0-55-generic
+lrwxrwxrwx 1 root root       27 Jun  4 10:34 initrd.img.old -> initrd.img-5.8.0-53-generic
+-rw-r--r-- 1 root root   182704 Aug 18  2020 memtest86+.bin
+-rw-r--r-- 1 root root   184380 Aug 18  2020 memtest86+.elf
+-rw-r--r-- 1 root root   184884 Aug 18  2020 memtest86+_multiboot.bin
+-rw------- 1 root root  5531695 May  6 14:58 System.map-5.8.0-53-generic
+-rw------- 1 root root  5533740 Jun  1 14:53 System.map-5.8.0-55-generic
+lrwxrwxrwx 1 root root       24 Jun  4 10:34 vmlinuz -> vmlinuz-5.8.0-55-generic
+-rw------- 1 root root  9789856 May  6 14:59 vmlinuz-5.8.0-53-generic
+-rw------- 1 root root  9795904 Jun  1 14:53 vmlinuz-5.8.0-55-generic
+lrwxrwxrwx 1 root root       24 Jun  4 10:34 vmlinuz.old -> vmlinuz-5.8.0-53-generic
+
+/cdrom:
+total 0
+
+/dev:
+total 0
+crw-r--r--  1 root    root     10, 235 Jun 13 11:34 autofs
+drwxr-xr-x  2 root    root         400 Jun 13 11:34 block
+drwxr-xr-x  2 root    root          80 Jun 13 11:34 bsg
+crw-------  1 root    root     10, 234 Jun 13 11:34 btrfs-control
+drwxr-xr-x  3 root    root          60 Jun 13 11:34 bus
+lrwxrwxrwx  1 root    root           3 Jun 13 11:34 cdrom -> sr0
+drwxr-xr-x  2 root    root        3680 Jun 13 11:34 char
+crw--w----  1 root    tty       5,   1 Jun 13 11:34 console
+lrwxrwxrwx  1 root    root          11 Jun 13 11:34 core -> /proc/kcore
+crw-------  1 root    root     10,  59 Jun 13 11:34 cpu_dma_latency
+crw-------  1 root    root     10, 203 Jun 13 11:34 cuse
+drwxr-xr-x  7 root    root         140 Jun 13 11:34 disk
+drwxr-xr-x  2 root    root          60 Jun 13 11:34 dma_heap
+drwxr-xr-x  3 root    root         100 Jun 13 11:34 dri
+lrwxrwxrwx  1 root    root           3 Jun 13 11:34 dvd -> sr0
+crw-------  1 root    root     10,  62 Jun 13 11:34 ecryptfs
+crw-rw----  1 root    video    29,   0 Jun 13 11:34 fb0
+lrwxrwxrwx  1 root    root          13 Jun 13 11:34 fd -> /proc/self/fd
+crw-rw-rw-  1 root    root      1,   7 Jun 13 11:34 full
+crw-rw-rw-  1 root    root     10, 229 Jun 13 11:34 fuse
+crw-------  1 root    root    242,   0 Jun 13 11:34 hidraw0
+crw-------  1 root    root     10, 228 Jun 13 11:34 hpet
+drwxr-xr-x  2 root    root           0 Jun 13 11:34 hugepages
+crw-------  1 root    root     10, 183 Jun 13 11:34 hwrng
+crw-------  1 root    root     89,   0 Jun 13 11:34 i2c-0
+lrwxrwxrwx  1 root    root          12 Jun 13 11:34 initctl -> /run/initctl
+drwxr-xr-x  4 root    root         320 Jun 13 11:34 input
+crw-r--r--  1 root    root      1,  11 Jun 13 11:34 kmsg
+drwxr-xr-x  2 root    root          60 Jun 13 11:34 lightnvm
+lrwxrwxrwx  1 root    root          28 Jun 13 11:34 log -> /run/systemd/journal/dev-log
+brw-rw----  1 root    disk      7,   0 Jun 13 11:34 loop0
+brw-rw----  1 root    disk      7,   1 Jun 13 11:34 loop1
+brw-rw----  1 root    disk      7,  10 Jun 13 11:34 loop10
+brw-rw----  1 root    disk      7,  11 Jun 13 11:34 loop11
+brw-rw----  1 root    disk      7,  12 Jun 13 11:34 loop12
+brw-rw----  1 root    disk      7,   2 Jun 13 11:34 loop2
+brw-rw----  1 root    disk      7,   3 Jun 13 11:34 loop3
+brw-rw----  1 root    disk      7,   4 Jun 13 11:34 loop4
+brw-rw----  1 root    disk      7,   5 Jun 13 11:34 loop5
+brw-rw----  1 root    disk      7,   6 Jun 13 11:34 loop6
+brw-rw----  1 root    disk      7,   7 Jun 13 11:34 loop7
+brw-rw----  1 root    disk      7,   8 Jun 13 11:34 loop8
+brw-rw----  1 root    disk      7,   9 Jun 13 11:34 loop9
+crw-rw----  1 root    disk     10, 237 Jun 13 11:34 loop-control
+drwxr-xr-x  2 root    root          60 Jun 13 11:34 mapper
+crw-------  1 root    root     10, 227 Jun 13 11:34 mcelog
+crw-r-----  1 root    kmem      1,   1 Jun 13 11:34 mem
+drwxrwxrwt  2 root    root          40 Jun 13 11:34 mqueue
+drwxr-xr-x  2 root    root          60 Jun 13 11:34 net
+crw-rw-rw-  1 root    root      1,   3 Jun 13 11:34 null
+crw-------  1 root    root     10, 144 Jun 13 11:34 nvram
+crw-r-----  1 root    kmem      1,   4 Jun 13 11:34 port
+crw-------  1 root    root    108,   0 Jun 13 11:34 ppp
+crw-------  1 root    root     10,   1 Jun 13 11:34 psaux
+crw-rw-rw-  1 root    tty       5,   2 Jun 13 11:42 ptmx
+drwxr-xr-x  2 root    root           0 Jun 13 11:34 pts
+crw-rw-rw-  1 root    root      1,   8 Jun 13 11:34 random
+crw-rw-r--+ 1 root    root     10, 242 Jun 13 11:34 rfkill
+lrwxrwxrwx  1 root    root           4 Jun 13 11:34 rtc -> rtc0
+crw-------  1 root    root    248,   0 Jun 13 11:34 rtc0
+brw-rw----  1 root    disk      8,   0 Jun 13 11:34 sda
+brw-rw----  1 root    disk      8,   1 Jun 13 11:34 sda1
+brw-rw----  1 root    disk      8,   2 Jun 13 11:34 sda2
+brw-rw----  1 root    disk      8,   5 Jun 13 11:34 sda5
+crw-rw----+ 1 root    cdrom    21,   0 Jun 13 11:34 sg0
+crw-rw----  1 root    disk     21,   1 Jun 13 11:34 sg1
+drwxrwxrwt  2 root    root          40 Jun 13 11:34 shm
+crw-------  1 root    root     10, 231 Jun 13 11:34 snapshot
+drwxr-xr-x  3 root    root         180 Jun 13 11:34 snd
+brw-rw----+ 1 root    cdrom    11,   0 Jun 13 11:34 sr0
+lrwxrwxrwx  1 root    root          15 Jun 13 11:34 stderr -> /proc/self/fd/2
+lrwxrwxrwx  1 root    root          15 Jun 13 11:34 stdin -> /proc/self/fd/0
+lrwxrwxrwx  1 root    root          15 Jun 13 11:34 stdout -> /proc/self/fd/1
+crw-rw-rw-  1 root    tty       5,   0 Jun 13 11:34 tty
+crw--w----  1 root    tty       4,   0 Jun 13 11:34 tty0
+crw--w----  1 root    tty       4,   1 Jun 13 11:34 tty1
+crw--w----  1 root    tty       4,  10 Jun 13 11:34 tty10
+crw--w----  1 root    tty       4,  11 Jun 13 11:34 tty11
+crw--w----  1 root    tty       4,  12 Jun 13 11:34 tty12
+crw--w----  1 root    tty       4,  13 Jun 13 11:34 tty13
+crw--w----  1 root    tty       4,  14 Jun 13 11:34 tty14
+crw--w----  1 root    tty       4,  15 Jun 13 11:34 tty15
+crw--w----  1 root    tty       4,  16 Jun 13 11:34 tty16
+crw--w----  1 root    tty       4,  17 Jun 13 11:34 tty17
+crw--w----  1 root    tty       4,  18 Jun 13 11:34 tty18
+crw--w----  1 root    tty       4,  19 Jun 13 11:34 tty19
+crw--w----  1 anagha  tty       4,   2 Jun 13 11:34 tty2
+crw--w----  1 root    tty       4,  20 Jun 13 11:34 tty20
+crw--w----  1 root    tty       4,  21 Jun 13 11:34 tty21
+crw--w----  1 root    tty       4,  22 Jun 13 11:34 tty22
+crw--w----  1 root    tty       4,  23 Jun 13 11:34 tty23
+crw--w----  1 root    tty       4,  24 Jun 13 11:34 tty24
+crw--w----  1 root    tty       4,  25 Jun 13 11:34 tty25
+crw--w----  1 root    tty       4,  26 Jun 13 11:34 tty26
+crw--w----  1 root    tty       4,  27 Jun 13 11:34 tty27
+crw--w----  1 root    tty       4,  28 Jun 13 11:34 tty28
+crw--w----  1 root    tty       4,  29 Jun 13 11:34 tty29
+crw--w----  1 root    tty       4,   3 Jun 13 11:34 tty3
+crw--w----  1 root    tty       4,  30 Jun 13 11:34 tty30
+crw--w----  1 root    tty       4,  31 Jun 13 11:34 tty31
+crw--w----  1 root    tty       4,  32 Jun 13 11:34 tty32
+crw--w----  1 root    tty       4,  33 Jun 13 11:34 tty33
+crw--w----  1 root    tty       4,  34 Jun 13 11:34 tty34
+crw--w----  1 root    tty       4,  35 Jun 13 11:34 tty35
+crw--w----  1 root    tty       4,  36 Jun 13 11:34 tty36
+crw--w----  1 root    tty       4,  37 Jun 13 11:34 tty37
+crw--w----  1 root    tty       4,  38 Jun 13 11:34 tty38
+crw--w----  1 root    tty       4,  39 Jun 13 11:34 tty39
+crw--w----  1 root    tty       4,   4 Jun 13 11:34 tty4
+crw--w----  1 root    tty       4,  40 Jun 13 11:34 tty40
+crw--w----  1 root    tty       4,  41 Jun 13 11:34 tty41
+crw--w----  1 root    tty       4,  42 Jun 13 11:34 tty42
+crw--w----  1 root    tty       4,  43 Jun 13 11:34 tty43
+crw--w----  1 root    tty       4,  44 Jun 13 11:34 tty44
+crw--w----  1 root    tty       4,  45 Jun 13 11:34 tty45
+crw--w----  1 root    tty       4,  46 Jun 13 11:34 tty46
+crw--w----  1 root    tty       4,  47 Jun 13 11:34 tty47
+crw--w----  1 root    tty       4,  48 Jun 13 11:34 tty48
+crw--w----  1 root    tty       4,  49 Jun 13 11:34 tty49
+crw--w----  1 root    tty       4,   5 Jun 13 11:34 tty5
+crw--w----  1 root    tty       4,  50 Jun 13 11:34 tty50
+crw--w----  1 root    tty       4,  51 Jun 13 11:34 tty51
+crw--w----  1 root    tty       4,  52 Jun 13 11:34 tty52
+crw--w----  1 root    tty       4,  53 Jun 13 11:34 tty53
+crw--w----  1 root    tty       4,  54 Jun 13 11:34 tty54
+crw--w----  1 root    tty       4,  55 Jun 13 11:34 tty55
+crw--w----  1 root    tty       4,  56 Jun 13 11:34 tty56
+crw--w----  1 root    tty       4,  57 Jun 13 11:34 tty57
+crw--w----  1 root    tty       4,  58 Jun 13 11:34 tty58
+crw--w----  1 root    tty       4,  59 Jun 13 11:34 tty59
+crw--w----  1 root    tty       4,   6 Jun 13 11:34 tty6
+crw--w----  1 root    tty       4,  60 Jun 13 11:34 tty60
+crw--w----  1 root    tty       4,  61 Jun 13 11:34 tty61
+crw--w----  1 root    tty       4,  62 Jun 13 11:34 tty62
+crw--w----  1 root    tty       4,  63 Jun 13 11:34 tty63
+crw--w----  1 root    tty       4,   7 Jun 13 11:34 tty7
+crw--w----  1 root    tty       4,   8 Jun 13 11:34 tty8
+crw--w----  1 root    tty       4,   9 Jun 13 11:34 tty9
+crw-------  1 root    root      5,   3 Jun 13 11:34 ttyprintk
+crw-rw----  1 root    dialout   4,  64 Jun 13 11:34 ttyS0
+crw-rw----  1 root    dialout   4,  65 Jun 13 11:34 ttyS1
+crw-rw----  1 root    dialout   4,  74 Jun 13 11:34 ttyS10
+crw-rw----  1 root    dialout   4,  75 Jun 13 11:34 ttyS11
+crw-rw----  1 root    dialout   4,  76 Jun 13 11:34 ttyS12
+crw-rw----  1 root    dialout   4,  77 Jun 13 11:34 ttyS13
+crw-rw----  1 root    dialout   4,  78 Jun 13 11:34 ttyS14
+crw-rw----  1 root    dialout   4,  79 Jun 13 11:34 ttyS15
+crw-rw----  1 root    dialout   4,  80 Jun 13 11:34 ttyS16
+crw-rw----  1 root    dialout   4,  81 Jun 13 11:34 ttyS17
+crw-rw----  1 root    dialout   4,  82 Jun 13 11:34 ttyS18
+crw-rw----  1 root    dialout   4,  83 Jun 13 11:34 ttyS19
+crw-rw----  1 root    dialout   4,  66 Jun 13 11:34 ttyS2
+crw-rw----  1 root    dialout   4,  84 Jun 13 11:34 ttyS20
+crw-rw----  1 root    dialout   4,  85 Jun 13 11:34 ttyS21
+crw-rw----  1 root    dialout   4,  86 Jun 13 11:34 ttyS22
+crw-rw----  1 root    dialout   4,  87 Jun 13 11:34 ttyS23
+crw-rw----  1 root    dialout   4,  88 Jun 13 11:34 ttyS24
+crw-rw----  1 root    dialout   4,  89 Jun 13 11:34 ttyS25
+crw-rw----  1 root    dialout   4,  90 Jun 13 11:34 ttyS26
+crw-rw----  1 root    dialout   4,  91 Jun 13 11:34 ttyS27
+crw-rw----  1 root    dialout   4,  92 Jun 13 11:34 ttyS28
+crw-rw----  1 root    dialout   4,  93 Jun 13 11:34 ttyS29
+crw-rw----  1 root    dialout   4,  67 Jun 13 11:34 ttyS3
+crw-rw----  1 root    dialout   4,  94 Jun 13 11:34 ttyS30
+crw-rw----  1 root    dialout   4,  95 Jun 13 11:34 ttyS31
+crw-rw----  1 root    dialout   4,  68 Jun 13 11:34 ttyS4
+crw-rw----  1 root    dialout   4,  69 Jun 13 11:34 ttyS5
+crw-rw----  1 root    dialout   4,  70 Jun 13 11:34 ttyS6
+crw-rw----  1 root    dialout   4,  71 Jun 13 11:34 ttyS7
+crw-rw----  1 root    dialout   4,  72 Jun 13 11:34 ttyS8
+crw-rw----  1 root    dialout   4,  73 Jun 13 11:34 ttyS9
+crw-rw----  1 root    kvm      10,  60 Jun 13 11:34 udmabuf
+crw-------  1 root    root     10, 239 Jun 13 11:34 uhid
+crw-------  1 root    root     10, 223 Jun 13 11:34 uinput
+crw-rw-rw-  1 root    root      1,   9 Jun 13 11:34 urandom
+crw-------  1 root    root     10, 240 Jun 13 11:34 userio
+crw-rw----  1 vboxadd root     10,  58 Jun 13 11:34 vboxguest
+crw-rw-rw-  1 vboxadd root     10,  57 Jun 13 11:34 vboxuser
+crw-rw----  1 root    tty       7,   0 Jun 13 11:34 vcs
+crw-rw----  1 root    tty       7,   1 Jun 13 11:34 vcs1
+crw-rw----  1 root    tty       7,   2 Jun 13 11:34 vcs2
+crw-rw----  1 root    tty       7,   3 Jun 13 11:34 vcs3
+crw-rw----  1 root    tty       7,   4 Jun 13 11:34 vcs4
+crw-rw----  1 root    tty       7,   5 Jun 13 11:34 vcs5
+crw-rw----  1 root    tty       7,   6 Jun 13 11:34 vcs6
+crw-rw----  1 root    tty       7, 128 Jun 13 11:34 vcsa
+crw-rw----  1 root    tty       7, 129 Jun 13 11:34 vcsa1
+crw-rw----  1 root    tty       7, 130 Jun 13 11:34 vcsa2
+crw-rw----  1 root    tty       7, 131 Jun 13 11:34 vcsa3
+crw-rw----  1 root    tty       7, 132 Jun 13 11:34 vcsa4
+crw-rw----  1 root    tty       7, 133 Jun 13 11:34 vcsa5
+crw-rw----  1 root    tty       7, 134 Jun 13 11:34 vcsa6
+crw-rw----  1 root    tty       7,  64 Jun 13 11:34 vcsu
+crw-rw----  1 root    tty       7,  65 Jun 13 11:34 vcsu1
+crw-rw----  1 root    tty       7,  66 Jun 13 11:34 vcsu2
+crw-rw----  1 root    tty       7,  67 Jun 13 11:34 vcsu3
+crw-rw----  1 root    tty       7,  68 Jun 13 11:34 vcsu4
+crw-rw----  1 root    tty       7,  69 Jun 13 11:34 vcsu5
+crw-rw----  1 root    tty       7,  70 Jun 13 11:34 vcsu6
+drwxr-xr-x  2 root    root          60 Jun 13 11:34 vfio
+crw-------  1 root    root     10,  63 Jun 13 11:34 vga_arbiter
+crw-------  1 root    root     10, 137 Jun 13 11:34 vhci
+crw-------  1 root    root     10, 238 Jun 13 11:34 vhost-net
+crw-------  1 root    root     10, 241 Jun 13 11:34 vhost-vsock
+crw-rw-rw-  1 root    root      1,   5 Jun 13 11:34 zero
+crw-------  1 root    root     10, 249 Jun 13 11:34 zfs
+
+/etc:
+total 1120
+drwxr-xr-x  3 root root    4096 Feb 10 00:21 acpi
+-rw-r--r--  1 root root    3028 Feb 10 00:17 adduser.conf
+drwxr-xr-x  3 root root    4096 Feb 10 00:18 alsa
+drwxr-xr-x  2 root root    4096 May  6 22:05 alternatives
+-rw-r--r--  1 root root     401 Jul 17  2019 anacrontab
+-rw-r--r--  1 root root     433 Oct  2  2017 apg.conf
+drwxr-xr-x  5 root root    4096 Feb 10 00:19 apm
+drwxr-xr-x  3 root root    4096 Feb 10 00:21 apparmor
+drwxr-xr-x  7 root root    4096 Jun  4 10:35 apparmor.d
+drwxr-xr-x  4 root root    4096 May 26 18:55 apport
+-rw-r--r--  1 root root     769 Jan 18  2020 appstream.conf
+drwxr-xr-x  7 root root    4096 May  6 21:34 apt
+-rw-r-----  1 root daemon   144 Nov 12  2018 at.deny
+drwxr-xr-x  3 root root    4096 Feb 10 00:21 avahi
+-rw-r--r--  1 root root    2319 Feb 25  2020 bash.bashrc
+-rw-r--r--  1 root root      45 Jan 26  2020 bash_completion
+drwxr-xr-x  2 root root    4096 May 26 18:55 bash_completion.d
+-rw-r--r--  1 root root     367 Apr 15  2020 bindresvport.blacklist
+drwxr-xr-x  2 root root    4096 Apr 22  2020 binfmt.d
+drwxr-xr-x  2 root root    4096 May 26 18:55 bluetooth
+-rw-r-----  1 root root      33 Feb 10 00:21 brlapi.key
+drwxr-xr-x  7 root root    4096 Feb 10 00:20 brltty
+-rw-r--r--  1 root root   26916 Mar  4  2020 brltty.conf
+drwxr-xr-x  3 root root    4096 Feb 10 00:17 ca-certificates
+-rw-r--r--  1 root root    6569 Feb 10 00:18 ca-certificates.conf
+-rw-r--r--  1 root root    5713 Feb 10 00:17 ca-certificates.conf.dpkg-old
+drwxr-xr-x  2 root root    4096 Feb 10 00:21 calendar
+drwxr-s---  2 root dip     4096 Feb 10 00:21 chatscripts
+drwxr-xr-x  2 root root    4096 May  6 21:28 console-setup
+drwxr-xr-x  2 root root    4096 Feb 10 00:21 cracklib
+drwxr-xr-x  2 root root    4096 May  6 21:29 cron.d
+drwxr-xr-x  2 root root    4096 May 26 18:55 cron.daily
+drwxr-xr-x  2 root root    4096 Feb 10 00:17 cron.hourly
+drwxr-xr-x  2 root root    4096 Feb 10 00:21 cron.monthly
+-rw-r--r--  1 root root    1042 Feb 14  2020 crontab
+drwxr-xr-x  2 root root    4096 May 26 18:55 cron.weekly
+drwxr-xr-x  5 root lp      4096 Jun 13 11:35 cups
+drwxr-xr-x  2 root root    4096 Feb 10 00:22 cupshelpers
+drwxr-xr-x  4 root root    4096 Feb 10 00:17 dbus-1
+drwxr-xr-x  4 root root    4096 Feb 10 00:19 dconf
+-rw-r--r--  1 root root    2969 Aug  3  2019 debconf.conf
+-rw-r--r--  1 root root      13 Dec  5  2019 debian_version
+drwxr-xr-x  3 root root    4096 May 26 18:55 default
+-rw-r--r--  1 root root     604 Sep 16  2018 deluser.conf
+drwxr-xr-x  2 root root    4096 May  6 21:43 depmod.d
+drwxr-xr-x  4 root root    4096 Jun  2 20:14 dhcp
+drwxr-xr-x  2 root root    4096 May  6 21:29 dictionaries-common
+drwxr-xr-x  4 root root    4096 May  6 21:41 dkms
+drwxr-xr-x  4 root root    4096 May  6 21:41 dpkg
+-rw-r--r--  1 root root     685 Feb 14  2020 e2scrub.conf
+drwxr-xr-x  3 root root    4096 Feb 10 00:19 emacs
+-rw-r--r--  1 root root     106 Feb 10 00:18 environment
+drwxr-xr-x  2 root root    4096 Feb 10 00:21 environment.d
+-rw-r--r--  1 root root    1816 Dec 27  2019 ethertypes
+drwxr-xr-x  3 root root    4096 Jun  4 10:35 firefox
+drwxr-xr-x  4 root root    4096 Feb 10 00:21 fonts
+-rw-r--r--  1 root root      20 Feb 10  2020 fprintd.conf
+-rw-rw-r--  1 root root     665 May  6 21:23 fstab
+-rw-r--r--  1 root root     280 Jun 20  2014 fuse.conf
+drwxr-xr-x  3 root root    4096 Feb 10 00:22 fwupd
+-rw-r--r--  1 root root    2584 Feb  1  2020 gai.conf
+-rw-r--r--  1 root root    4372 May 18  2020 gamemode.ini
+drwxr-xr-x  2 root root    4096 Feb 10 00:21 gdb
+drwxr-xr-x  8 root root    4096 Feb 10 00:22 gdm3
+drwxr-xr-x  2 root root    4096 Feb 10 00:22 geoclue
+drwxr-xr-x  4 root root    4096 Feb 10 00:19 ghostscript
+drwxr-xr-x  3 root root    4096 Feb 10 00:19 glvnd
+drwxr-xr-x  2 root root    4096 Feb 10 00:21 gnome
+drwxr-xr-x  2 root root    4096 Feb 10 00:21 groff
+-rw-r--r--  1 root root    1071 May  6 21:43 group
+-rw-r--r--  1 root root    1057 May  6 21:38 group-
+drwxr-xr-x  2 root root    4096 May  6 21:34 grub.d
+-rw-r-----  1 root shadow   894 May  6 21:43 gshadow
+-rw-r-----  1 root shadow   883 May  6 21:38 gshadow-
+drwxr-xr-x  3 root root    4096 Feb 10 00:18 gss
+drwxr-xr-x  2 root root    4096 Feb 10 00:21 gtk-2.0
+drwxr-xr-x  2 root root    4096 Feb 10 00:22 gtk-3.0
+-rw-r--r--  1 root root    5060 Aug 21  2019 hdparm.conf
+-rw-r--r--  1 root root      92 Dec  5  2019 host.conf
+-rw-r--r--  1 root root       4 Feb 10 00:23 hostid
+-rw-r--r--  1 root root      10 May  6 21:25 hostname
+-rw-r--r--  1 root root     224 May  6 21:25 hosts
+-rw-r--r--  1 root root     411 Feb 10 00:21 hosts.allow
+-rw-r--r--  1 root root     711 Feb 10 00:21 hosts.deny
+drwxr-xr-x  2 root root    4096 Feb 10 00:22 hp
+drwxr-xr-x  3 root root    4096 Feb 10 00:20 ifplugd
+drwxr-xr-x  2 root root    4096 May  8 23:16 init
+drwxr-xr-x  2 root root    4096 Jun 12 11:29 init.d
+drwxr-xr-x  5 root root    4096 May 26 18:55 initramfs-tools
+-rw-r--r--  1 root root    1748 Feb 25  2020 inputrc
+drwxr-xr-x  2 root root    4096 Feb 10 00:22 insserv.conf.d
+drwxr-xr-x  4 root root    4096 Feb 10 00:17 iproute2
+-rw-r--r--  1 root root      26 Jan 27 15:10 issue
+-rw-r--r--  1 root root      19 Jan 27 15:10 issue.net
+drwxr-xr-x  8 root root    4096 May  6 21:41 kernel
+-rw-r--r--  1 root root     110 May  6 21:29 kernel-img.conf
+-rw-r--r--  1 root root    1308 Dec  2  2017 kerneloops.conf
+drwxr-xr-x  2 root root    4096 May  8 23:16 ldap
+-rw-r--r--  1 root root   73513 Jun 12 11:29 ld.so.cache
+-rw-r--r--  1 root root      34 Apr 15  2020 ld.so.conf
+drwxr-xr-x  2 root root    4096 May  6 21:41 ld.so.conf.d
+-rw-r--r--  1 root root     267 Dec  5  2019 legal
+-rw-r--r--  1 root root      27 Jan 19  2018 libao.conf
+-rw-r--r--  1 root root     191 Feb 18  2020 libaudit.conf
+drwxr-xr-x  3 root root    4096 Feb 10 00:19 libblockdev
+drwxr-xr-x  2 root root    4096 Feb 10 00:21 libnl-3
+drwxr-xr-x  2 root root    4096 Jun 26  2019 libpaper.d
+drwxr-xr-x  2 root root    4096 May  6 21:28 libreoffice
+-rw-r--r--  1 root root    2996 Apr 15  2020 locale.alias
+-rw-r--r--  1 root root    9438 May  6 21:25 locale.gen
+lrwxrwxrwx  1 root root      32 May  6 21:28 localtime -> /usr/share/zoneinfo/Asia/Kolkata
+drwxr-xr-x  4 root root    4096 Feb 10 00:19 logcheck
+-rw-r--r--  1 root root   10550 Feb  7  2020 login.defs
+-rw-r--r--  1 root root     533 Jan 21  2019 logrotate.conf
+drwxr-xr-x  2 root root    4096 May 26 18:55 logrotate.d
+-rw-r--r--  1 root root     104 Jan 27 15:08 lsb-release
+-rw-r--r--  1 root root   14867 Feb  1  2019 ltrace.conf
+-r--r--r--  1 root root      33 May  6 21:38 machine-id
+-rw-r--r--  1 root root     111 Jan 17  2020 magic
+-rw-r--r--  1 root root     111 Jan 17  2020 magic.mime
+-rw-r--r--  1 root root   41950 Jun 11 14:18 mailcap
+-rw-r--r--  1 root root     449 Oct 19  2019 mailcap.order
+-rw-r--r--  1 root root    5215 Feb 25  2020 manpath.config
+-rw-r--r--  1 root root   24546 Oct 19  2019 mime.types
+-rw-r--r--  1 root root     808 Feb 14  2020 mke2fs.conf
+drwxr-xr-x  2 root root    4096 May 26 18:55 modprobe.d
+-rw-r--r--  1 root root     195 Feb 10 00:17 modules
+drwxr-xr-x  2 root root    4096 May  8 23:14 modules-load.d
+lrwxrwxrwx  1 root root      19 May  6 21:28 mtab -> ../proc/self/mounts
+-rw-r--r--  1 root root     624 Mar 22  2020 mtools.conf
+drwxr-xr-x  3 root root    4096 Feb 10 00:21 mysql
+-rw-r--r--  1 root root   10037 Feb  7  2020 nanorc
+drwxr-xr-x  2 root root    4096 Feb 10 00:27 netplan
+drwxr-xr-x  6 root root    4096 Feb 10 00:20 network
+drwxr-xr-x  8 root root    4096 Feb 10 00:17 networkd-dispatcher
+drwxr-xr-x  7 root root    4096 Feb 10 00:22 NetworkManager
+-rw-r--r--  1 root root      91 Dec  5  2019 networks
+drwxr-xr-x  2 root root    4096 Feb 10 00:17 newt
+-rw-r--r--  1 root root     542 Feb 10 00:21 nsswitch.conf
+drwxr-xr-x  4 root root    4096 May  8 23:16 openvpn
+drwxr-xr-x  2 root root    4096 Feb 10 00:17 opt
+lrwxrwxrwx  1 root root      21 May  6 21:23 os-release -> ../usr/lib/os-release
+drwxr-xr-x  2 root root    4096 Feb 10 00:22 PackageKit
+-rw-r--r--  1 root root     552 Dec 17  2019 pam.conf
+drwxr-xr-x  2 root root    4096 Jun 12 11:29 pam.d
+-rw-rw-r--  1 root root       3 May  6 21:28 papersize
+-rw-r--r--  1 root root    2794 May  6 21:43 passwd
+-rw-r--r--  1 root root    2749 May  6 21:38 passwd-
+drwxr-xr-x  2 root root    4096 Feb 10 00:21 pcmcia
+drwxr-xr-x  3 root root    4096 Feb 10 00:18 perl
+drwxr-xr-x  4 root root    4096 Feb 10 00:19 pki
+drwxr-xr-x  3 root root    4096 Feb 10 00:19 pm
+-rw-r--r--  1 root root    7649 Feb 10 00:22 pnm2ppa.conf
+drwxr-xr-x  4 root root    4096 Feb 10 00:19 polkit-1
+-rw-rw-r--  1 root root     350 May  6 21:28 popularity-contest.conf
+drwxr-xr-x  7 root dip     4096 Feb 10 00:21 ppp
+-rw-r--r--  1 root root     616 May  6 22:08 profile
+drwxr-xr-x  2 root root    4096 May  8 23:16 profile.d
+-rw-r--r--  1 root root    2932 Apr  2  2013 protocols
+drwxr-xr-x  3 root root    4096 Feb 10 00:22 pulse
+drwxr-xr-x  2 root root    4096 Feb 10 00:17 python3
+drwxr-xr-x  2 root root    4096 Jun  2 20:14 python3.8
+drwxr-xr-x  2 root root    4096 Jun 12 11:29 rc0.d
+drwxr-xr-x  2 root root    4096 Jun 12 11:29 rc1.d
+drwxr-xr-x  2 root root    4096 Jun 12 11:29 rc2.d
+drwxr-xr-x  2 root root    4096 Jun 12 11:29 rc3.d
+drwxr-xr-x  2 root root    4096 Jun 12 11:29 rc4.d
+drwxr-xr-x  2 root root    4096 Jun 12 11:29 rc5.d
+drwxr-xr-x  2 root root    4096 Jun 12 11:29 rc6.d
+drwxr-xr-x  2 root root    4096 May  6 21:29 rcS.d
+lrwxrwxrwx  1 root root      39 May  6 21:25 resolv.conf -> ../run/systemd/resolve/stub-resolv.conf
+lrwxrwxrwx  1 root root      13 May  6 21:23 rmt -> /usr/sbin/rmt
+-rw-r--r--  1 root root     887 Apr  1  2013 rpc
+-rw-r--r--  1 root root    1382 Feb 11  2020 rsyslog.conf
+drwxr-xr-x  2 root root    4096 Feb 10 00:21 rsyslog.d
+-rw-r--r--  1 root root    5211 Mar 11  2020 rygel.conf
+drwxr-xr-x  3 root root    4096 Feb 10 00:22 sane.d
+drwxr-xr-x  4 root root    4096 May 26 18:54 security
+drwxr-xr-x  2 root root    4096 Feb 10 00:17 selinux
+-rw-r--r--  1 root root   10593 Nov  7  2019 sensors3.conf
+drwxr-xr-x  2 root root    4096 Feb 10 00:21 sensors.d
+-rw-r--r--  1 root root   14464 Feb 17  2020 services
+drwxr-xr-x  3 root root    4096 Feb 10 00:22 sgml
+-rw-r-----  1 root shadow  1458 May  6 21:43 shadow
+-rw-r-----  1 root shadow  1436 May  6 21:38 shadow-
+-rw-r--r--  1 root root     116 Feb 10 00:17 shells
+drwxr-xr-x  2 root root    4096 Feb 10 00:18 skel
+drwxr-xr-x  2 root root    4096 Feb 10 00:21 snmp
+drwxr-xr-x  4 root root    4096 Feb 10 00:21 speech-dispatcher
+drwxr-xr-x  3 root root    4096 May  8 23:16 ssh
+drwxr-xr-x  4 root root    4096 May 26 18:55 ssl
+-rw-r--r--  1 root root      20 May  6 21:28 subgid
+-rw-r--r--  1 root root       0 Feb 10 00:17 subgid-
+-rw-r--r--  1 root root      20 May  6 21:28 subuid
+-rw-r--r--  1 root root       0 Feb 10 00:17 subuid-
+-r--r-----  1 root root     755 Feb  3  2020 sudoers
+drwxr-xr-x  2 root root    4096 May  6 21:29 sudoers.d
+-rw-r--r--  1 root root    2351 Feb 14  2020 sysctl.conf
+drwxr-xr-x  2 root root    4096 May  8 23:16 sysctl.d
+drwxr-xr-x  5 root root    4096 May  8 23:16 systemd
+drwxr-xr-x  2 root root    4096 Feb 10 00:17 terminfo
+drwxr-xr-x  2 root root    4096 May  8 23:16 thermald
+drwxr-xr-x  2 root root    4096 May  8 23:16 thunderbird
+-rw-r--r--  1 root root      13 May  6 21:28 timezone
+drwxr-xr-x  2 root root    4096 Apr 22  2020 tmpfiles.d
+drwxr-xr-x  2 root root    4096 Feb 10 00:17 ubuntu-advantage
+-rw-r--r--  1 root root    1260 Dec 14  2018 ucf.conf
+drwxr-xr-x  4 root root    4096 May  6 21:34 udev
+drwxr-xr-x  2 root root    4096 Feb 10 00:21 udisks2
+drwxr-xr-x  3 root root    4096 Feb 10 00:21 ufw
+drwxr-xr-x  3 root root    4096 Jun  2 20:14 update-manager
+drwxr-xr-x  2 root root    4096 Jun  2 20:14 update-motd.d
+drwxr-xr-x  2 root root    4096 Jan 20 22:16 update-notifier
+drwxr-xr-x  2 root root    4096 Feb 10 00:21 UPower
+-rw-r--r--  1 root root    1523 Feb 10  2020 usb_modeswitch.conf
+drwxr-xr-x  2 root root    4096 Feb 25  2020 usb_modeswitch.d
+-rw-r--r--  1 root root      51 Aug 28  2019 vdpau_wrapper.cfg
+drwxr-xr-x  2 root root    4096 Feb 10 00:17 vim
+drwxr-xr-x  4 root root    4096 May  6 21:34 vmware-tools
+lrwxrwxrwx  1 root root      23 May  6 21:23 vtrgb -> /etc/alternatives/vtrgb
+drwxr-xr-x  5 root root    4096 Feb 10 00:19 vulkan
+-rw-r--r--  1 root root    4942 Jul 25  2019 wgetrc
+drwxr-xr-x  2 root root    4096 May  8 23:16 wpa_supplicant
+drwxr-xr-x 11 root root    4096 Feb 10 00:22 X11
+-rw-r--r--  1 root root     642 Sep 24  2019 xattr.conf
+drwxr-xr-x  6 root root    4096 Feb 10 00:19 xdg
+drwxr-xr-x  2 root root    4096 Feb 10 00:22 xml
+-rw-r--r--  1 root root     477 Oct  7  2019 zsh_command_not_found
+
+/home:
+total 4
+drwxr-xr-x 19 anagha anagha 4096 Jun 13 11:45 anagha
+
+/media:
+total 4
+drwxr-x---+ 3 root root 4096 Jun 13 11:34 anagha
+
+/mnt:
+total 0
+
+/opt:
+total 4
+drwxr-xr-x 8 root root 4096 May  6 21:43 VBoxGuestAdditions-6.1.18
+
+/proc:
+total 0
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 1
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 10
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 100
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 101
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 102
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 104
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 105
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 1061
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 107
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 108
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 109
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 11
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 110
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 111
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 112
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 114
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 117
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 12
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 126
+dr-xr-xr-x  9 colord           colord                         0 Jun 13 11:34 1276
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 129
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 13
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 130
+dr-xr-xr-x  9 root             anagha                         0 Jun 13 11:34 1341
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 135
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1350
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1351
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1356
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1358
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 136
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1360
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1378
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1379
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1386
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1394
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 14
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1401
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1405
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1410
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1414
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1422
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1427
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1434
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1436
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1470
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 15
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:36 1543
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1544
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:36 1555
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1556
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:36 1562
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1564
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:36 1567
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1568
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:36 1575
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 16
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1608
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1613
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1644
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1651
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1665
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1697
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 17
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1701
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1702
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1706
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1709
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1720
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1724
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1726
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1737
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1744
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1753
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1755
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1773
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1783
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1790
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1791
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1792
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1793
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1796
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1797
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1798
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 18
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1801
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1802
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1804
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1805
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 183
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1832
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1833
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 184
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1846
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 185
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1859
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1860
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1869
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 187
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1872
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1875
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1885
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 189
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 19
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 190
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 192
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1953
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 1988
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 2
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 20
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:34 2013
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 21
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 211
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:35 2118
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 212
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:35 2122
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 213
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:35 2132
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 22
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 222
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 23
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:35 2379
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:35 2387
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 24
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 253
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 26
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 27
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 275
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 276
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 277
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 28
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 280
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 29
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 290
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 291
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 296
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 298
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 299
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 3
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 30
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 300
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 301
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 303
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 304
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:35 3110
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:35 3113
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 32
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:45 3250
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:45 3268
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:45 3275
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:45 3276
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:44 3285
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:45 3291
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:45 3292
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:45 3293
+dr-xr-xr-x  9 anagha           anagha                         0 Jun 13 11:45 3295
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 33
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 332
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 333
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 334
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 34
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 35
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 357
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 36
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 37
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 38
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 39
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 4
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 40
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 41
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 42
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 43
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 44
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 52
+dr-xr-xr-x  9 systemd-resolve  systemd-resolve                0 Jun 13 11:34 554
+dr-xr-xr-x  9 systemd-timesync systemd-timesync               0 Jun 13 11:34 558
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 586
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 587
+dr-xr-xr-x  9 avahi            avahi                          0 Jun 13 11:34 590
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 591
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 592
+dr-xr-xr-x  9 messagebus       messagebus                     0 Jun 13 11:34 594
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 595
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 6
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 601
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 603
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 609
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 611
+dr-xr-xr-x  9 syslog           syslog                         0 Jun 13 11:34 613
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 614
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 616
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 617
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 620
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 630
+dr-xr-xr-x  9 daemon           daemon                         0 Jun 13 11:34 635
+dr-xr-xr-x  9 avahi            avahi                          0 Jun 13 11:34 642
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 681
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 683
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 690
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 694
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 7
+dr-xr-xr-x  9 whoopsie         whoopsie                       0 Jun 13 11:34 745
+dr-xr-xr-x  9 kernoops         adm                            0 Jun 13 11:34 749
+dr-xr-xr-x  9 kernoops         adm                            0 Jun 13 11:34 751
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 8
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 9
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 92
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 928
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 93
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 932
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 94
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 95
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 96
+dr-xr-xr-x  9 rtkit            rtkit                          0 Jun 13 11:34 965
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 97
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 98
+dr-xr-xr-x  9 root             root                           0 Jun 13 11:34 99
+dr-xr-xr-x  3 root             root                           0 Jun 13 11:34 acpi
+dr-xr-xr-x 12 root             root                           0 Jun 13 11:34 asound
+-r--r--r--  1 root             root                           0 Jun 13 11:45 bootconfig
+-r--r--r--  1 root             root                           0 Jun 13 11:45 buddyinfo
+dr-xr-xr-x  4 root             root                           0 Jun 13 11:34 bus
+-r--r--r--  1 root             root                           0 Jun 13 11:34 cgroups
+-r--r--r--  1 root             root                           0 Jun 13 11:34 cmdline
+-r--r--r--  1 root             root                           0 Jun 13 11:45 consoles
+-r--r--r--  1 root             root                           0 Jun 13 11:45 cpuinfo
+-r--r--r--  1 root             root                           0 Jun 13 11:45 crypto
+-r--r--r--  1 root             root                           0 Jun 13 11:34 devices
+-r--r--r--  1 root             root                           0 Jun 13 11:45 diskstats
+-r--r--r--  1 root             root                           0 Jun 13 11:45 dma
+dr-xr-xr-x  3 root             root                           0 Jun 13 11:45 driver
+dr-xr-xr-x  3 root             root                           0 Jun 13 11:45 dynamic_debug
+-r--r--r--  1 root             root                           0 Jun 13 11:45 execdomains
+-r--r--r--  1 root             root                           0 Jun 13 11:45 fb
+-r--r--r--  1 root             root                           0 Jun 13 11:34 filesystems
+dr-xr-xr-x  5 root             root                           0 Jun 13 11:34 fs
+-r--r--r--  1 root             root                           0 Jun 13 11:34 interrupts
+-r--r--r--  1 root             root                           0 Jun 13 11:45 iomem
+-r--r--r--  1 root             root                           0 Jun 13 11:45 ioports
+dr-xr-xr-x 24 root             root                           0 Jun 13 11:34 irq
+-r--r--r--  1 root             root                           0 Jun 13 11:34 kallsyms
+-r--------  1 root             root             140737477885952 Jun 13 11:34 kcore
+-r--r--r--  1 root             root                           0 Jun 13 11:45 keys
+-r--r--r--  1 root             root                           0 Jun 13 11:45 key-users
+-r--------  1 root             root                           0 Jun 13 11:34 kmsg
+-r--------  1 root             root                           0 Jun 13 11:45 kpagecgroup
+-r--------  1 root             root                           0 Jun 13 11:45 kpagecount
+-r--------  1 root             root                           0 Jun 13 11:45 kpageflags
+-r--r--r--  1 root             root                           0 Jun 13 11:45 loadavg
+-r--r--r--  1 root             root                           0 Jun 13 11:45 locks
+-r--r--r--  1 root             root                           0 Jun 13 11:34 mdstat
+-r--r--r--  1 root             root                           0 Jun 13 11:34 meminfo
+-r--r--r--  1 root             root                           0 Jun 13 11:45 misc
+-r--r--r--  1 root             root                           0 Jun 13 11:34 modules
+lrwxrwxrwx  1 root             root                          11 Jun 13 11:34 mounts -> self/mounts
+-rw-r--r--  1 root             root                           0 Jun 13 11:34 mtrr
+lrwxrwxrwx  1 root             root                           8 Jun 13 11:34 net -> self/net
+-r--------  1 root             root                           0 Jun 13 11:45 pagetypeinfo
+-r--r--r--  1 root             root                           0 Jun 13 11:45 partitions
+dr-xr-xr-x  5 root             root                           0 Jun 13 11:45 pressure
+-r--r--r--  1 root             root                           0 Jun 13 11:45 sched_debug
+-r--r--r--  1 root             root                           0 Jun 13 11:45 schedstat
+dr-xr-xr-x  5 root             root                           0 Jun 13 11:34 scsi
+lrwxrwxrwx  1 root             root                           0 Jun 13 11:34 self -> 3295
+-r--------  1 root             root                           0 Jun 13 11:45 slabinfo
+-r--r--r--  1 root             root                           0 Jun 13 11:45 softirqs
+-r--r--r--  1 root             root                           0 Jun 13 11:34 stat
+-r--r--r--  1 root             root                           0 Jun 13 11:34 swaps
+dr-xr-xr-x  1 root             root                           0 Jun 13 11:34 sys
+--w-------  1 root             root                           0 Jun 13 11:34 sysrq-trigger
+dr-xr-xr-x  5 root             root                           0 Jun 13 11:45 sysvipc
+lrwxrwxrwx  1 root             root                           0 Jun 13 11:34 thread-self -> 3295/task/3295
+-r--------  1 root             root                           0 Jun 13 11:45 timer_list
+dr-xr-xr-x  6 root             root                           0 Jun 13 11:45 tty
+-r--r--r--  1 root             root                           0 Jun 13 11:34 uptime
+-r--r--r--  1 root             root                           0 Jun 13 11:34 version
+-r--r--r--  1 root             root                           0 Jun 13 11:45 version_signature
+-r--------  1 root             root                           0 Jun 13 11:45 vmallocinfo
+-r--r--r--  1 root             root                           0 Jun 13 11:45 vmstat
+-r--r--r--  1 root             root                           0 Jun 13 11:45 zoneinfo
+
+/run:
+total 24
+-rw-r--r--  1 root              root     4 Jun 13 11:34 acpid.pid
+srw-rw-rw-  1 root              root     0 Jun 13 11:34 acpid.socket
+drwxr-xr-x  2 root              root    40 Jun 13 11:34 alsa
+-rw-r--r--  1 root              root     4 Jun 13 11:34 atd.pid
+drwxr-xr-x  2 avahi             avahi   80 Jun 13 11:34 avahi-daemon
+drwxr-xr-x  2 root              root    60 Jun 13 11:34 blkid
+drwxr-xr-x  2 root              root    80 Jun 13 11:34 console-setup
+-rw-r--r--  1 root              root     4 Jun 13 11:34 crond.pid
+----------  1 root              root     0 Jun 13 11:34 crond.reboot
+drwxr-xr-x  3 root              lp     100 Jun 13 11:34 cups
+drwxr-xr-x  2 root              root    60 Jun 13 11:34 dbus
+drwxr-xr-x  2 root              root    60 Jun 13 11:34 fsck
+drwx--x--x  3 root              gdm     60 Jun 13 11:34 gdm3
+-rw-r--r--  1 root              root     4 Jun 13 11:34 gdm3.pid
+prw-------  1 root              root     0 Jun 13 11:34 initctl
+drwx------  2 root              root    80 Jun 13 11:34 initramfs
+drwxr-xr-x  2 root              root    60 Jun 13 11:34 irqbalance
+drwxrwxrwt  4 root              root   100 Jun 13 11:34 lock
+drwxr-xr-x  3 root              root    60 Jun 13 11:34 log
+drwxr-xr-x  3 root              root    60 Jun 13 11:35 motd.d
+drwxr-xr-x  2 root              root    80 Jun 13 11:34 mount
+drwxr-xr-x  2 root              root    40 Jun 13 11:34 netns
+drwxr-xr-x  5 root              root   140 Jun 13 11:34 NetworkManager
+drwxr-xr-x  2 root              root    40 Jun 13 11:34 openvpn
+drwx--x---  2 root              root    40 Jun 13 11:34 openvpn-client
+drwx--x---  2 root              root    40 Jun 13 11:34 openvpn-server
+drwxr-xr-x  2 root              root    40 Jun 13 11:34 plymouth
+drwxr-xr-x  2 root              root    40 Jun 13 11:34 sendsigs.omit.d
+lrwxrwxrwx  1 root              root     8 Jun 13 11:34 shm -> /dev/shm
+drwxr-xr-x  4 root              root    80 Jun 13 11:34 snapd
+srw-rw-rw-  1 root              root     0 Jun 13 11:34 snapd-snap.socket
+srw-rw-rw-  1 root              root     0 Jun 13 11:34 snapd.socket
+drwxr-x---  3 speech-dispatcher audio  100 Jun 13 11:34 speech-dispatcher
+drwxr-xr-x  2 root              root    40 Jun 13 11:34 spice-vdagentd
+drwx--x--x  3 root              root    60 Jun 13 11:34 sudo
+drwxr-xr-x 21 root              root   480 Jun 13 11:34 systemd
+drwxr-xr-x  2 root              root    60 Jun 13 11:34 tmpfiles.d
+drwxr-xr-x  7 root              root   180 Jun 13 11:35 udev
+drwx------  2 root              root    40 Jun 13 11:34 udisks2
+drwxr-xr-x  3 root              root    60 Jun 13 11:35 user
+-rw-rw-r--  1 root              utmp  1152 Jun 13 11:34 utmp
+drwxr-xr-x  2 root              root    60 Jun 13 11:34 uuidd
+-rw-r-----  1 root              root     4 Jun 13 11:34 vboxadd-service.sh
+
+/snap:
+total 32
+drwxr-xr-x 2 root root 4096 Jun 11 14:21 bin
+drwxr-xr-x 4 root root 4096 May 26 18:49 core18
+drwxr-xr-x 4 root root 4096 May 26 18:48 core20
+drwxr-xr-x 4 root root 4096 Jun 11 14:16 gnome-3-34-1804
+drwxr-xr-x 4 root root 4096 May  7 01:57 gtk-common-themes
+-r--r--r-- 1 root root  548 Feb 10 00:27 README
+drwxr-xr-x 4 root root 4096 Jun  2 20:10 snapd
+drwxr-xr-x 4 root root 4096 Jun 11 14:21 snap-store
+
+/srv:
+total 0
+
+/sys:
+total 0
+drwxr-xr-x   2 root root 0 Jun 13 11:34 block
+drwxr-xr-x  44 root root 0 Jun 13 11:34 bus
+drwxr-xr-x  71 root root 0 Jun 13 11:34 class
+drwxr-xr-x   4 root root 0 Jun 13 11:34 dev
+drwxr-xr-x  15 root root 0 Jun 13 11:34 devices
+drwxr-xr-x   5 root root 0 Jun 13 11:34 firmware
+drwxr-xr-x   8 root root 0 Jun 13 11:34 fs
+drwxr-xr-x   2 root root 0 Jun 13 11:45 hypervisor
+drwxr-xr-x  14 root root 0 Jun 13 11:34 kernel
+drwxr-xr-x 160 root root 0 Jun 13 11:34 module
+drwxr-xr-x   3 root root 0 Jun 13 11:34 power
+
+/tmp:
+total 52
+-rw------- 1 anagha anagha    0 Jun 13 11:34 config-err-b78QBL
+drwx------ 3 root   root   4096 Jun 13 11:34 snap.snap-store
+drwx------ 2 anagha anagha 4096 Jun 13 11:34 ssh-b7pZCvDDh8rd
+drwx------ 3 root   root   4096 Jun 13 11:34 systemd-private-b5cef3fe6adf4e71b7464bedbb931ded-colord.service-cszgng
+drwx------ 3 root   root   4096 Jun 13 11:35 systemd-private-b5cef3fe6adf4e71b7464bedbb931ded-fwupd.service-kCpByf
+drwx------ 3 root   root   4096 Jun 13 11:34 systemd-private-b5cef3fe6adf4e71b7464bedbb931ded-ModemManager.service-o7vSei
+drwx------ 3 root   root   4096 Jun 13 11:34 systemd-private-b5cef3fe6adf4e71b7464bedbb931ded-switcheroo-control.service-prZxgg
+drwx------ 3 root   root   4096 Jun 13 11:34 systemd-private-b5cef3fe6adf4e71b7464bedbb931ded-systemd-logind.service-lv9xWf
+drwx------ 3 root   root   4096 Jun 13 11:34 systemd-private-b5cef3fe6adf4e71b7464bedbb931ded-systemd-resolved.service-sLOcuh
+drwx------ 3 root   root   4096 Jun 13 11:34 systemd-private-b5cef3fe6adf4e71b7464bedbb931ded-systemd-timesyncd.service-8xyO5h
+drwx------ 3 root   root   4096 Jun 13 11:34 systemd-private-b5cef3fe6adf4e71b7464bedbb931ded-upower.service-3Hupfg
+drwx------ 2 anagha anagha 4096 Jun 13 11:34 tracker-extract-files.1000
+drwx------ 2 gdm    gdm    4096 Jun 13 11:34 tracker-extract-files.125
+drwxrwxrwt 2 root   root   4096 Jun 13 11:34 VMwareDnD
+
+/usr:
+total 124
+drwxr-xr-x   2 root root 49152 Jun 12 11:29 bin
+drwxr-xr-x   2 root root  4096 Feb 10 00:19 games
+drwxr-xr-x  39 root root  4096 May  6 21:41 include
+drwxr-xr-x 122 root root  4096 May  6 21:59 lib
+drwxr-xr-x   2 root root  4096 Feb 10 00:17 lib32
+drwxr-xr-x   2 root root  4096 Feb 10 00:18 lib64
+drwxr-xr-x  12 root root 12288 Jun 11 14:18 libexec
+drwxr-xr-x   2 root root  4096 Feb 10 00:17 libx32
+drwxr-xr-x  10 root root  4096 Feb 10 00:17 local
+drwxr-xr-x   2 root root 20480 Jun 13 11:34 sbin
+drwxr-xr-x 251 root root 12288 May  6 21:41 share
+drwxr-xr-x   8 root root  4096 Jun  4 10:34 src
+
+/var:
+total 48
+drwxr-xr-x  2 root root     4096 Jun  4 10:35 backups
+drwxr-xr-x 17 root root     4096 May  8 16:14 cache
+drwxrwsrwt  2 root whoopsie 4096 Jun  4 21:59 crash
+drwxr-xr-x 67 root root     4096 May  6 21:42 lib
+drwxrwsr-x  2 root staff    4096 Apr 15  2020 local
+lrwxrwxrwx  1 root root        9 May  6 21:24 lock -> /run/lock
+drwxrwxr-x 13 root syslog   4096 Jun 13 11:34 log
+drwxrwsr-x  2 root mail     4096 Feb 10 00:17 mail
+drwxrwsrwt  2 root whoopsie 4096 Feb 10 00:22 metrics
+drwxr-xr-x  2 root root     4096 Feb 10 00:17 opt
+lrwxrwxrwx  1 root root        4 May  6 21:24 run -> /run
+drwxr-xr-x  8 root root     4096 May  7 20:21 snap
+drwxr-xr-x  7 root root     4096 Feb 10 00:20 spool
+drwxrwxrwt 10 root root     4096 Jun 13 11:41 tmp
